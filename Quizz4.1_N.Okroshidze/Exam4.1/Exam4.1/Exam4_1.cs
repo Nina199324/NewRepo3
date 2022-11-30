@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 
 class Exam4_1
-{  //4.1  დაწერეთ პროგრამა რომელიც მასივში დაითვლის თითოეული ელემენტი რამდენჯერ გვხვდება.
+{  //4.1  დაgfgწერეთ პროგრამა რომელიც მასივში დაითვლის თითოეული ელემენტი რამდენჯერ გვხვდება.
 
     static void Main(string[] args)
     {
